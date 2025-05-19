@@ -1,25 +1,25 @@
-**скріншоти на ходу виконання лабораторної роботи**
+**Скріни до виконання лабораторної роботи №1**
 
 **1. Додати підсвічування - готово**
-![image](./screenshots/2_6.jpg)
+![image](./demonstration/1.jpg)
 
-**завдання 3_1 Вивести інформацію з отриманих даних**
-![image](./screenshots/3_1.png)
+**2. Вивести інфу зі статей в отримані дані**
+![image](./demonstration/2.png)
 
-**завдання 3_2 Сторінка завантаження**
-![image](./screenshots/3_2.png)
+**3. Сторінка з завантаженням статей**
+![image](./demonstration/3.png)
 
-**завдання 3_4 Окремі індикатори завантаження для FavoriteArticle**
-![image](./screenshots/3_4.png)
+**4. Сторінка з завантаженням улюблених статей**
+![image](./demonstration/4.png)
 
-**завдання 3_7 збілдити апку**
-![image](./screenshots/3_7.png)
+**5. Білд апки динамічний**
+![image](./demonstration/5.png)
 
-**завдання 3_8 запустити за допомогою npm http-server**
-![image](./screenshots/3_8.png)
+**6. Білд апки статичний за допомогою npm http-server**
+![image](./demonstration/6.png)
 
-**завдання 4_2 модульна scss файл для стилізації меню**
-![image](./screenshots/4_2.png)
+**7. Використання модульного scss файл для стилізації меню**
+![image](./demonstration/7.png)
 
-**завдання 4_5 компонент MUI у FavoriteArticle**
-![image](./screenshots/4_5.png)
+**8. Я вибрала юз компонентів з бібліотеки MUI у для статей та улюблених статей у вигляді кнопок**
+![image](./demonstration/8.png)
