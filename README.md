@@ -13,13 +13,13 @@
 ![image](./demonstration/4.png)
 
 **5. Білд апки динамічний**
-![image](./demonstration/5.png)
-
-**6. Білд апки статичний за допомогою npm http-server**
 ![image](./demonstration/6.png)
 
-**7. Використання модульного scss файл для стилізації меню**
+**6. Білд апки статичний за допомогою npm http-server**
 ![image](./demonstration/7.png)
+
+**7. Використання модульного scss файл для стилізації меню**
+![image](./demonstration/9.png)
 
 **8. Я вибрала юз компонентів з бібліотеки MUI у для статей та улюблених статей у вигляді кнопок**
 ![image](./demonstration/8.png)
